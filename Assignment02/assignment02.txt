@@ -1,9 +1,0 @@
- 1) Which field of the Customers table is the primary key?
-	->Cnam
- 2) What is the 4th column of the Customers table? 
-	->Rating
- 3)What is another word for row?  For column?
-	-> Row : Tuple, Entity,opportunity
-	->Column : Attributes , methods, Key
- 4)Why isn’t it possible to see the first five rows of a table?
-	->Because the rows are stored randomly in the table ,it does not follow insertion order
